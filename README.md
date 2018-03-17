@@ -11,5 +11,7 @@ Steps:
 In your project, 
 
 1. run 'npm install git+https://github.com/HCL-HO/react-native-fetch-blob-expo.git --save'
-2. run react-native link react-native-fetch-blob-expo
+
+2. run react-native link react-native-fetch-blob
+
 3. re-compile your android/ios projects
